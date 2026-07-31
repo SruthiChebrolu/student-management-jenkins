@@ -11,5 +11,14 @@
     <h3>Student Details</h3>
     <p>Name: Rahul</p>
     <p>Department: Computer Science</p>
+
+    <h3>Calculator Features</h3>
+    <ul>
+        <li>Addition</li>
+        <li>Subtraction</li>
+        <li>Multiplication</li>
+        <li>Division</li>
+        <li>Modulus</li>
+    </ul>
 </body>
 </html>
